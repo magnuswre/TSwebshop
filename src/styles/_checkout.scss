@@ -1,0 +1,23 @@
+.checkout-container{
+    max-width: 50%;
+    border: none;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+ 
+    margin: 0 auto;
+    margin-bottom: 1000px;
+    background-color: black;
+
+    .checkout-content{
+        padding: 2rem;
+    }
+
+    .checkout-button{
+        margin: 10px;
+    }
+}
+
+// .checkout-left{
+//     margin: 25px
+// }

@@ -1,0 +1,56 @@
+.admin-page-details-container {
+   background-color: black;
+   width: 80%;
+   margin: 0 auto;
+   border: none;
+
+   .optional-button{
+      margin: 20px;
+     }
+
+   input {
+      width: 500px;
+      padding: 20px;
+      background-color: #FAFAFA;
+      
+  }
+
+  .admin-page-button{
+   margin: 25px;
+  }
+  
+ label{
+   font-size: large;
+ }
+ #underline{
+   text-decoration: underline;
+ }
+  .d-flex{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 20px ;
+  }
+
+   .admin-page-details-form{
+      
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      
+      font-size: 16px;
+
+      }
+
+
+
+
+.change-product-title{
+   margin-top: 25px;
+   display: grid;
+   place-items: center;
+}
+
+}

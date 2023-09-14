@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem;
+
+    .title-logo,
+    .navigation {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+  }
+
+  .teapotticon{
+    width: 40px;
+    color: white;
+    // background-color: white;
+  }
+  .button-dashboard{
+    border: none;
+  padding: .3em 1em;
+  cursor: pointer;
+  text-transform: uppercase;
+  // letter-spacing: 3.5px;
+  }
+}
+
